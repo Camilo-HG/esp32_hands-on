@@ -30,6 +30,6 @@ See the [schematic](https://wiki.wemos.cc/_media/products:lolin32:sch_lolin32_li
 
 ## Language used: MicroPython
 
-Take a look on `MicroPython.md` to see process followed.
+Once the board was connected to **serial port**, I followed instructions in `serial_port.md` to catch device's port info.
 
-Once the board was connected to serial port, I followed instructions in `serial_port.md` to catch device's port info.
+Take a look on `MicroPython.md` to see process followed to discover language's functionalities and to enable the board to **WiFi connection**.
